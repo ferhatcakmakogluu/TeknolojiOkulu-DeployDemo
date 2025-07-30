@@ -13,7 +13,10 @@ namespace DeployApp.API.Services
         {
             new Product { Id = 1, Name = "Laptop", Price = 15000 },
             new Product { Id = 2, Name = "Mouse", Price = 500 },
-            new Product { Id = 3, Name = "Keyboard", Price = 800 }
+            new Product { Id = 3, Name = "Keyboard", Price = 800 },
+            new Product { Id = 4, Name = "TV", Price = 25000 },
+            new Product { Id = 5, Name = "Ps5", Price = 15000 },
+            new Product { Id = 6, Name = "AirPods", Price = 4500 }
         };
         }
 
