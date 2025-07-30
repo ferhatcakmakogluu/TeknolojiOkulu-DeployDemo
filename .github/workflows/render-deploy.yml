@@ -18,7 +18,7 @@ jobs:
 
       - name: Build Docker image
         run: |
-          docker build -t deployapp-api:latest .
+          docker build -t deployapp-api:latest DeployApp.API/
 
       - name: Deploy to Render
         env:
