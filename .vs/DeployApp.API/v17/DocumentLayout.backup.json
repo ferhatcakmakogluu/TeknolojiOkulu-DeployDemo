@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\DeployApp.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1F5E99D4-30AE-4AE5-B46F-E28340705DC1}|DeployApp.API\\DeployApp.API.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\deployapp.api\\deployapp.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F5E99D4-30AE-4AE5-B46F-E28340705DC1}|DeployApp.API\\DeployApp.API.csproj|solutionrelative:deployapp.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F5E99D4-30AE-4AE5-B46F-E28340705DC1}|DeployApp.API\\DeployApp.API.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\deployapp.api\\deployapp.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F5E99D4-30AE-4AE5-B46F-E28340705DC1}|DeployApp.API\\DeployApp.API.csproj|solutionrelative:deployapp.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 191,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\DeployApp.API\\DeployApp.API\\Dockerfile",
+              "RelativeDocumentMoniker": "DeployApp.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\DeployApp.API\\DeployApp.API\\Dockerfile",
+              "RelativeToolTip": "DeployApp.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-30T12:40:36.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\DeployApp.API\\DeployApp.API\\Program.cs",
               "RelativeDocumentMoniker": "DeployApp.API\\Program.cs",
@@ -34,12 +51,11 @@
               "RelativeToolTip": "DeployApp.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T12:27:06.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T12:27:06.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\DeployApp.API\\DeployApp.API\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "DeployApp.API\\Services\\ProductService.cs",
@@ -47,12 +63,11 @@
               "RelativeToolTip": "DeployApp.API\\Services\\ProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T12:25:24.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T12:25:24.113Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\DeployApp.API\\DeployApp.API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "DeployApp.API\\Controllers\\ProductsController.cs",
