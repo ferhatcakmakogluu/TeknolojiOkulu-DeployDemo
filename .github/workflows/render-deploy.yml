@@ -3,7 +3,7 @@ name: Build and Deploy to Render on main push
 on:
   push:
     branches:
-      - main
+      - release
 
 jobs:
   build-and-deploy:

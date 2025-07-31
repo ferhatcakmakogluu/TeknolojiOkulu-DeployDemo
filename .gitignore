@@ -1,0 +1,72 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio files
+.vs/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+*.nuspec
+
+# ASP.NET Core secrets
+**/secrets.json
+
+# Environment-specific config
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.Development.json
+
+# Logs
+*.log
+logs/
+log/
+
+# Database files
+*.db
+*.mdf
+*.ldf
+
+# Rider settings (JetBrains)
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Test results
+TestResults/
+
+# Publish folder
+publish/
+out/
+
+# Docker artifacts (if using Docker)
+**/docker-compose.override.yml
+.docker/
+
+# Node modules (if using frontend in same repo)
+node_modules/
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# Global tool restore cache
+.dotnet_tool/
+
+# Python virtual env (if used for scripting/deployment)
+venv/
+
